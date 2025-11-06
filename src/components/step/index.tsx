@@ -1,7 +1,6 @@
 import { IconProps } from "@tabler/icons-react-native";
 import { Text, View } from "react-native";
 
-
 import { colors } from "@/styles/colors";
 import { styles } from "./styles";
 
